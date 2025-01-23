@@ -48,7 +48,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'QUIÉN SOY:'
       color: text-dark
       styles:
         self:
