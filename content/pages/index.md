@@ -18,7 +18,7 @@ sections:
     text: |
       ![](/images/logo.jpg)
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
