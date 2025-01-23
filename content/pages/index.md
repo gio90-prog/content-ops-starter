@@ -11,7 +11,7 @@ sections:
         VIDA
 
         ABUNDANTE
-      color: text-light
+      color: text-dark
       type: TitleBlock
       styles:
         self:
