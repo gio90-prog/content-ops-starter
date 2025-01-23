@@ -55,11 +55,23 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+
+
+
+      Soy una persona sensible, curiosa e innovadora, con un propósito claro:
+      proporcionó conocimientos y herramientas financieras que despiertan
+
+      la sabiduría interior de cada individuo para ayudarles a lograr autonomía,
+      bienestar y abundancia.
+
+
+
+
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
