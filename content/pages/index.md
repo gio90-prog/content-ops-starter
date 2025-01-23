@@ -160,7 +160,7 @@ sections:
           - pr-20
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 'SERVICIOS:'
       color: text-dark
       styles:
         self:
