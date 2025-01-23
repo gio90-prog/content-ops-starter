@@ -14,7 +14,7 @@ sections:
     subtitle: >-
       ACOMPAÑO A LAS PERSONAS CON HERRAMIENTAS DE EDUCACIÓN FINANCIERA Y
       CRECIMIENTO PERSONAL PARA QUE ALCANCEN BIENESTAR GLOBAL, AUTONOMÍA Y VIDA
-      ABUNDANTE
+      ABUNDANTE   
     text: |
       ![](/images/logo.jpg)
     actions:
