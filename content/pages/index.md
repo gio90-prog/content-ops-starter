@@ -81,7 +81,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: 'QUIÉN SOY:'
       color: text-primary
       styles:
         self:
