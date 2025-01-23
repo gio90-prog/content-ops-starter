@@ -4,7 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: >-
+        ACOMPAÑO A LAS PERSONAS CON HERRAMIENTAS DE EDUCACIÓN FINANCIERA Y
+        CRECIMIENTO PERSONAL PARA QUE ALCANCEN BIENESTAR GLOBAL, AUTONOMÍA Y
+        VIDA ABUNDANTE
       color: text-dark
       type: TitleBlock
       styles:
