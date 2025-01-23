@@ -17,16 +17,7 @@ sections:
       ABUNDANTE   
     text: |
       ![](/images/logo.jpg)
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/sfondo.jpg
       altText: Unblock your team boost your time to production preview
