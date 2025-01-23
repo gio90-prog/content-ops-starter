@@ -169,11 +169,24 @@ sections:
     subtitle: |-
       Entrevista Gratuita -
       20 minutos
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Esta sesión inicial está diseñada para darte una visión clara de cómo
+      podemos trabajar juntos.
+
+      Durante estos 20 minutos, escucharé atentamente tu situación financiera y
+      tus objetivos. Juntos evaluaremos los obstáculos que puedes estar
+      enfrentando en la gestión de tu dinero y crearemos una dirección clara
+      para tu camino financiero.
+
+      Cada parte de nuestro trabajo estará diseñada según tus necesidades
+      específicas, para brindarte un apoyo adaptado a tu realidad. 
+
+
+
+
+
+
+
     actions: []
     elementId: null
     colors: bg-light-fg-dark
