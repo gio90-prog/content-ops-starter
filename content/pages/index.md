@@ -154,6 +154,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
