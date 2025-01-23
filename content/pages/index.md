@@ -18,6 +18,9 @@ sections:
         BIENESTAR GLOBAL, AUTONOMÍA Y VIDA ABUNDANTE
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
