@@ -79,7 +79,7 @@ sections:
         textAlign: center
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: 'SERVICIOS:'
     items:
       - type: FeaturedItem
         title: >-
