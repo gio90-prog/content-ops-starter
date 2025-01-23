@@ -16,7 +16,7 @@ sections:
         ALCANCEN
 
         BIENESTAR GLOBAL, AUTONOMÍA Y VIDA ABUNDANTE
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
