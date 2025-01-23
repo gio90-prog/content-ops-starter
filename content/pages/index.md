@@ -53,7 +53,7 @@ sections:
           - pb-16
           - pr-16
       subtitle:
-        fontWeight: 400
+        fontWeight: 700
         textAlign: center
   - type: FeaturedItemsSection
     title:
