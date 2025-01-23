@@ -4,7 +4,18 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        ACOMPAÑO A LAS PERSONAS CON
+
+        HERRAMIENTAS DE EDUCACIÓN FINANCIERA Y CRECIMIENTO PERSONAL PARA QUE
+        ALCANCEN
+
+        BIENESTAR GLOBAL, AUTONOMÍA Y VIDA ABUNDANTECOMPAÑO A LAS PERSONAS CON
+
+        HERRAMIENTAS DE EDUCACIÓN FINANCIERA Y CRECIMIENTO PERSONAL PARA QUE
+        ALCANCEN
+
+        BIENESTAR GLOBAL, AUTONOMÍA Y VIDA ABUNDANTE
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
