@@ -14,7 +14,10 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: ''
+    subtitle: >-
+      ACOMPAÑO A LAS PERSONAS CON HERRAMIENTAS DE EDUCACIÓN FINANCIERA Y
+      CRECIMIENTO PERSONAL PARA QUE ALCANCEN BIENESTAR GLOBAL, AUTONOMÍA Y VIDA
+      ABUNDANTE
     text: |
       ![](/images/logo.jpg)
     actions:
