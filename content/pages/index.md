@@ -56,21 +56,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-
-
-
-
-      Soy una persona sensible, curiosa e innovadora, con un propósito claro:
-      proporcionó conocimientos y herramientas financieras que despiertan
+      <div style="text-align: center">Soy una persona sensible, curiosa e
+      innovadora, con un propósito claro: proporcionó conocimientos y
+      herramientas financieras que despiertan
 
       la sabiduría interior de cada individuo para ayudarles a lograr autonomía,
-      bienestar y abundancia.
-
-
-
-
-
-
+      bienestar y abundancia.</div>
 
     media:
       title: Title of the video
