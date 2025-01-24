@@ -119,8 +119,7 @@ sections:
   - title:
       text: |-
         PROGRAMA FINANCE
-        RESET:4 SESIONES
-        DE 1 HORA
+        RESET:
       color: text-dark
       type: TitleBlock
       styles:
