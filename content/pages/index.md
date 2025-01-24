@@ -125,7 +125,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 400
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
