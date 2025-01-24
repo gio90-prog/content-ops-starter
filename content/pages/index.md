@@ -125,7 +125,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: Increase your reach
+    subtitle: 4 SESIONES DE 1 HORA
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
