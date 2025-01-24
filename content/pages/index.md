@@ -123,6 +123,9 @@ sections:
         DE 1 HORA
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 500
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
