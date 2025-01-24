@@ -151,7 +151,7 @@ sections:
       self:
         alignItems: center
       subtitle:
-        fontWeight: 700
+        fontWeight: 400
     type: GenericSection
   - title:
       text: Business Consulting
