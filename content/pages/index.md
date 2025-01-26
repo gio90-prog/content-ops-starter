@@ -16,7 +16,7 @@ sections:
       CRECIMIENTO PERSONAL PARA QUE ALCANCEN BIENESTAR GLOBAL, AUTONOMÍA Y VIDA
       ABUNDANTE   
     text: |
-      ![](/images/logo.jpg)
+      ![](/images/logo_no_bg.png)
     actions: []
     media:
       url: /images/sfondo.jpg
