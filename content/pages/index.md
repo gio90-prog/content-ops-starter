@@ -166,6 +166,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Contact
       - label: See Tutorials
         url: /
         showIcon: true
