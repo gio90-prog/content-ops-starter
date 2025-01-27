@@ -228,6 +228,8 @@ sections:
     styles:
       self:
         alignItems: center
+      subtitle:
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
