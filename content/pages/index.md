@@ -206,7 +206,7 @@ sections:
       text: SESIÓN OPCIONAL EXTRA
       color: text-dark
     subtitle: Increase your reach
-    text: "Duración: 2 horas – Para quienes deseen profundizar.Esta sesión está pensada para quienes quieren personalizar aún más el recorrido, abordando temas específicos o recibiendo una consulta más detallada.\_Una sesión individual contigo para:\_-\_\_\_\_\_\_\_ Recibir consejos personalizados para optimizar aún más tu gestión financiera.\_-\_\_\_\_\_\_\_ Profundizar en temas de tu interés, como estrategias de inversión, ahorro o gestión de gastos específicos.\_-\_\_\_\_\_\_\_ Tener la oportunidad de profundizar y perfeccionar tu plan financiero.\n\n"
+    text: " Para quienes deseen profundizar.Esta sesión está pensada para quienes quieren personalizar aún más el recorrido, abordando temas específicos o recibiendo una consulta más detallada.\_Una sesión individual contigo para:\_-\_\_\_\_\_\_\_ Recibir consejos personalizados para optimizar aún más tu gestión financiera.\_-\_\_\_\_\_\_\_ Profundizar en temas de tu interés, como estrategias de inversión, ahorro o gestión de gastos específicos.\_-\_\_\_\_\_\_\_ Tener la oportunidad de profundizar y perfeccionar tu plan financiero.\n"
     actions:
       - type: Button
         label: Get started
