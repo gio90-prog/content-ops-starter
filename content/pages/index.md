@@ -90,8 +90,8 @@ sections:
       Entrevista Gratuita -
       20 minutos
     text: >+
-      Esta sesión inicial está diseñada para darte una visión clara de cómo
-      podemos trabajar juntos.
+      <div style="text-align: left">Esta sesión inicial está diseñada para darte
+      una visión clara de cómo podemos trabajar juntos.
 
       Durante estos 20 minutos, escucharé atentamente tu situación financiera y
       tus objetivos. Juntos evaluaremos los obstáculos que puedes estar
@@ -99,13 +99,7 @@ sections:
       para tu camino financiero.
 
       Cada parte de nuestro trabajo estará diseñada según tus necesidades
-      específicas, para brindarte un apoyo adaptado a tu realidad. 
-
-
-
-
-
-
+      específicas, para brindarte un apoyo adaptado a tu realidad.</div>
 
     actions: []
     elementId: null
