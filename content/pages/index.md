@@ -152,7 +152,9 @@ sections:
         fontWeight: 400
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: |-
+        Qué te llevas con FINANCE
+        RESET
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
