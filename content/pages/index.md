@@ -210,7 +210,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /Contact
         icon: arrowRight
         iconPosition: right
         style: secondary
