@@ -161,7 +161,7 @@ sections:
     text: "*   Conocimiento: Comprenderás mejor tu situación financiera y tus posibilidades.\n\n<!---->\n\n*   Orden: Aprenderás a gestionar tu dinero de manera organizada y estratégica.\n\n<!---->\n\n*   Claridad: Tendrás una visión clara de\n    tus objetivos y de cómo alcanzarlos.\n\n\n\nSESIÓN OPCIONAL EXTRA\n\n\_\n\nDuración: 2 horas – Para quienes deseen profundizar.\n\nEsta sesión está\npensada para quienes quieren personalizar aún más el recorrido, abordando temas\nespecíficos o recibiendo una consulta más detallada.\n\n\_\n\nUna sesión individual\ncontigo para:\n\n\_\n\n-\_\_\_\_\_\_\_\nRecibir consejos personalizados\npara optimizar aún más tu gestión financiera.\n\n\_\n\n-\_\_\_\_\_\_\_\nProfundizar en temas de tu interés,\ncomo estrategias de inversión, ahorro o gestión de gastos específicos.\n\n\_\n\n-\_\_\_\_\_\_\_\nTener la oportunidad de profundizar y\nperfeccionar tu plan financiero.\n\n\_\n"
     actions:
       - label: Get started
-        url: /
+        url: /Contact
         icon: arrowRight
         iconPosition: right
         style: secondary
