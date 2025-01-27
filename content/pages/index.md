@@ -157,7 +157,7 @@ sections:
         RESET
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: "\n\n\n\nQué te llevas con FINANCE\nRESET\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nConocimiento: Comprenderás mejor tu\nsituación financiera y tus posibilidades.\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nOrden: Aprenderás a gestionar tu\ndinero de manera organizada y estratégica.\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nClaridad: Tendrás una visión clara de\ntus objetivos y de cómo alcanzarlos.\n\n\n\n\n\n\_\n\n\n\n\n\n\_--- \n\n\n\n\n\n\_\n\n\n\n\n\nSESIÓN OPCIONAL EXTRA \n\n\n\n\n\n\_\n\n\n\n\n\nDuración: 2 horas – Para quienes deseen profundizar. \n\n\n\n\n\nEsta sesión está\npensada para quienes quieren personalizar aún más el recorrido, abordando temas\nespecíficos o recibiendo una consulta más detallada. \n\n\n\n\n\n\_\n\n\n\n\n\nUna sesión individual\ncontigo para:\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nRecibir consejos personalizados\npara optimizar aún más tu gestión financiera.\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nProfundizar en temas de tu interés,\ncomo estrategias de inversión, ahorro o gestión de gastos específicos.\n\n\n\n\n\n\_\n\n\n\n\n\n-\_\_\_\_\_\_\_\nTener la oportunidad de profundizar y\nperfeccionar tu plan financiero.\n\n\n\n\n\n\_\n\n\n\n\n\n\n\n"
     actions:
       - label: Get started
