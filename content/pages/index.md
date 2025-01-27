@@ -128,6 +128,12 @@ sections:
     subtitle: 4 SESIONES DE 1 HORA
     text: "*Un primer paso hacia tu bienestar financiero.*\n\nUn recorrido práctico y personalizado, dividido en 4 sesiones, para transformar tu relación con el dinero y construir una base financiera sólida, autónoma y consciente, orientada a tus metas de vida.\n\n1.\_\_\_\_**Diagnóstico de tu situación financiera**\n\nEntender el presente para construir el futuro.\n\nLa primera sesión estará dedicada a un análisis profundo de tu situación económica actual. Juntos abordaremos:\n\n*   La gestión de tus ingresos y gastos.\n\n<!---->\n\n*   Tus objetivos financieros a corto, mediano y largo plazo\n\n<!---->\n\n*   Tus áreas fuertes y aquellas que requieren mayor atención.\n\nAl finalizar esta sesión, tendrás una fotografía clara de tu punto de partida y una visión de hasta dónde puedes llegar.\n\n\_\n\n2.\_\_\_\_**Creencias sobre el dinero**\n\nDescubre qué te bloquea y desbloquea tu potencial.\n\nMuchos de nuestros comportamientos financieros provienen de creencias inconscientes sobre el dinero. En esta sesión exploraremos:\n\n*   **Las creencias limitantes que pueden estar frenándote (por ejemplo,\"El dinero es difícil de ganar\" \"No soy bueno administrando dinero\")**\n\n<!---->\n\n*   \_Cómo estas creencias influyen en tus decisiones y tu relación con el dinero.\n\n<!---->\n\n*   Estrategias prácticas para transformar estas creencias y desarrollar una mentalidad positiva orientada a la abundancia.\n\n\_\n\n3.\_\_\_\_**La importancia del ahorro y la planificación financiera**\n\nConstruir un futuro sólido y seguro.\n\nEn esta sesión te ayudaré a comprender cómo una planificación financiera efectiva puede garantizar serenidad y libertad. Exploraremos cómo el ahorro puede convertirse en una herramienta para alcanzar tus objetivos, no un sacrificio, sino una elección consciente para el futuro.\n\nEl enfoque será personalizado según tu situación, con atención especial a:\n\n*   Gestión del ahorro diario: Analizaremos tus gastos y cómo optimizarlos, creando una rutina financiera que te ayude a vivir sin estrés.\n\n<!---->\n\n*   Red de seguridad: Cómo protegerte de imprevistos económicos, creando un fondo de emergencia que te brinde tranquilidad.\n\n<!---->\n\n*   Planes para el futuro: Juntos definiremos cómo planificar ahorros a largo plazo, para invertir y hacer crecer tu dinero.\n\n\_Al final de esta sesión, tendrás una visión clara de cómo gestionar tu dinero de manera consciente, para que el ahorro sea un aliado en el flujo de tu vida.\n\n\_\n\n4.\_\_\_**\_Invertir y crear hábitos financieros saludables**\n\nHaz que tu dinero trabaje para ti.\n\nEsta última sesión está dedicada a las inversiones y la creación de hábitos financieros que te apoyen a largo plazo.\_\n\nAbordaremos:\n\n*   Principios básicos de las inversiones:\n    por dónde empezar y cómo invertir de manera consciente.\n\n<!---->\n\n*   Estrategias para integrar hábitos saludables en tu vida financiera diaria.\n\n<!---->\n\n*   El valor de dar: Cómo incorporar la generosidad en tu planificación económica para un bienestar no solo personal, sino también social.\n\n\_Al final de este recorrido, habrás adquirido las herramientas y la conciencia necesarias para tomar decisiones financieras autónomas y vivir con tranquilidad y abundancia.\n\n\_\n"
     actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
@@ -135,12 +141,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
     media:
       altText: Fun feature preview
       type: ImageBlock
