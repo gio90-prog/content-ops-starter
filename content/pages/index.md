@@ -331,9 +331,9 @@ sections:
     text: >
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
-      ayudarte. 
+      ayudarte.
 
-      Contáctame directamente a través de los siguientes medios.
+      Contáctame directamente a través de los siguientes medios:
 
 
       **Correo electrónico:**
@@ -345,7 +345,8 @@ sections:
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 .
+      Si prefieres una conversación telefónica o por WhatsApp, llámame o
+      escríbeme al +34643 84 61 98.
 
 
       **Privacidad y confidencialidad:**
