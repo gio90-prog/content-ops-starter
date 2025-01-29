@@ -255,16 +255,15 @@ sections:
 
 
 
+          *   Pack 4 sesiones individuales online 1h
 
-          ## Pack 4 sesiones individuales online 1h
+          ## # <!---->
 
-          ## <!---->
+          *   Materiales en Excel genéricos.
 
-          ## Materiales en Excel genéricos.
+          ## # <!---->
 
-          ## <!---->
-
-          ## Ejercicios entre sesiones.
+          *   Ejercicios entre sesiones.
 
         features: []
         image:
