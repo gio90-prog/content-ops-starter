@@ -302,7 +302,6 @@ sections:
 
 
         features:
-          - Feature two
           - Feature four
         image:
           type: ImageBlock
