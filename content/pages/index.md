@@ -230,7 +230,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/TABELLA.png
+      url: /images/TABELLA_es.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
