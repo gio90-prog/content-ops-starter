@@ -1,6 +1,17 @@
 {
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Contact",
             "altText": "Contact page",
             "url": "/Contact",
@@ -25,13 +36,14 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "altText": "Image alt text placeholder",
+        "altText": "/",
         "elementId": "",
         "styles": {
             "self": {
                 "borderRadius": "medium"
             }
-        }
+        },
+        "url": "/images/logo_no_bg_100.png"
     },
     "title": ""
 }
