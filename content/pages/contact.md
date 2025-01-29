@@ -28,7 +28,9 @@ sections:
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 .
+      Si prefieres una conversación telefónica o por WhatsApp, llámame o
+      escríbeme al +34 643 84 61 98.
+
 
 
       **Privacidad y confidencialidad:**
