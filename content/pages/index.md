@@ -231,7 +231,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/TABELLA_es.png
-      altText: Fun feature preview
+      altText: ''
     colors: bg-light-fg-dark
     styles:
       self:
