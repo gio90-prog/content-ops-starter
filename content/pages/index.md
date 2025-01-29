@@ -226,9 +226,7 @@ sections:
         fontWeight: 700
   - type: GenericSection
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions: []
     media:
       type: ImageBlock
