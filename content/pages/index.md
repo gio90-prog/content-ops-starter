@@ -278,7 +278,10 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: |-
+          Sesión OPCIONAL
+
+          1 Sesión individual online 1,5h
         price: $99
         details: per month
         description: >-
