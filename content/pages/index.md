@@ -281,9 +281,26 @@ sections:
         title: Sesión OPCIONAL
         price: extra 150€
         details: '1 Sesión individual online 1,5h'
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          Para:
+
+          *   Profundización en situación personal con ejemplos reales.
+
+
+
+          *   Revisión personalizada de ejercicios realizados previamente.
+
+
+
+          *   Resolución de situaciones concretas.
+
+
+
+          *   Acompañamiento en la toma dedecisiones financieras.
+
+
+
+
         features:
           - Feature one
           - Feature two
