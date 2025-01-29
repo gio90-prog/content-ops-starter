@@ -181,7 +181,7 @@ sections:
         type: Button
         altText: Contact
       - label: See Tutorials
-        url: /
+        url: /Contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
