@@ -25,7 +25,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "altText": "Image alt text placeholder",
+        "altText": "/",
         "elementId": "",
         "styles": {
             "self": {
