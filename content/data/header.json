@@ -5,7 +5,7 @@
             "label": "Home",
             "altText": "/",
             "url": "/",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "",
             "iconPosition": "right",
             "style": "secondary",
