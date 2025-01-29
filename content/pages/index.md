@@ -280,7 +280,7 @@ sections:
       - type: PricingPlan
         title: Sesión OPCIONAL
         price: $99
-        details: per month
+        details: '1 Sesión individual online 1,5h'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
