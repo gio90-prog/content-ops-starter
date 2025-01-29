@@ -317,7 +317,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: 'ALL INCLUSIVE:'
-        price: Custom
+        price: 299€
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
