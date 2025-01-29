@@ -267,8 +267,7 @@ sections:
 
 
 
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           altText: Pricing plan 1
