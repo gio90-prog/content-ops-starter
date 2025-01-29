@@ -136,6 +136,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: Contact
     media:
       altText: Fun feature preview
       type: ImageBlock
