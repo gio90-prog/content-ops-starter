@@ -210,6 +210,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Contact
       - type: Link
         label: See Tutorials
         url: /
