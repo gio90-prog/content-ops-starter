@@ -280,7 +280,7 @@ sections:
       - type: PricingPlan
         title: Sesión OPCIONAL
         price: extra 150€
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
