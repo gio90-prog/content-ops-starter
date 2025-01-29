@@ -363,8 +363,7 @@ sections:
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 . Te
-      responderé lo antes posible!
+      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 . 
 
 
       **Privacidad y confidencialidad:**
