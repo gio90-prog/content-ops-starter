@@ -344,14 +344,32 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Contáctame para preguntas
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
+      tus inversiones o si deseas una consulta personalizada, estoy aquí para
+      ayudarte. Completa el formulario a continuación o contáctame directamente
+      a través de los siguientes medios.
+
+
+      **Correo electrónico:**
+
+      Para cualquier pregunta o solicitud, escríbeme a
+      [giovannifiorella.fe@gmail.com](giovannifiorella.fe@gmail.com) Te
+      responderé lo antes posible!
+
+
+      **Teléfono:**
+
+      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 . 
+
+
+      **Privacidad y confidencialidad:**
+
+      Tu privacidad es muy importante para mí. Los datos que compartas serán
+      tratados de manera confidencial y no serán cedidos a terceros.
     actions: []
     media:
       type: FormBlock
@@ -396,9 +414,12 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: Contact ME
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      subtitle:
+        fontWeight: 400
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
