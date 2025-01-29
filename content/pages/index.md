@@ -196,14 +196,6 @@ sections:
         iconPosition: right
         style: secondary
         altText: Contact
-      - type: Link
-        label: See Tutorials
-        url: /Contact
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        altText: Contact
     media:
       type: ImageBlock
       altText: Fun feature preview
