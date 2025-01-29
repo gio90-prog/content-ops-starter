@@ -412,7 +412,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       subtitle:
-        fontWeight: 700
+        fontWeight: 400
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
