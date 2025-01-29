@@ -318,7 +318,7 @@ sections:
       - type: PricingPlan
         title: 'ALL INCLUSIVE:'
         price: 299€
-        details: per month
+        details: 'En lugar de '
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
