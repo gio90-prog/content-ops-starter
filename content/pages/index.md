@@ -248,7 +248,7 @@ sections:
     plans:
       - type: PricingPlan
         title: 'Inversión:'
-        price: ' 399€ 199€'
+        price: 399€ 199€en lugar de
         details: 'Incluye:'
         description: |+
           *   Pack 4 sesiones individuales online 1h
