@@ -251,10 +251,6 @@ sections:
       type: ImageBlock
       url: /images/TABELLA.png
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
