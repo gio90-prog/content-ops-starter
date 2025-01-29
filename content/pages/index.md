@@ -344,7 +344,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contáctame para preguntas y asesoramiento financiero
+      text: Contáctame para preguntas
       color: text-dark
     subtitle: ''
     text: >
