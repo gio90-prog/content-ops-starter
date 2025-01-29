@@ -230,8 +230,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/TABELLA.png
-      altText: Fun feature preview
+      url: /images/TABELLA_es.png
+      altText: ''
     colors: bg-light-fg-dark
     styles:
       self:
@@ -326,86 +326,6 @@ sections:
           type: ImageBlock
           altText: Pricing plan 3
         actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: OPORTUNIDAD POR LANZAMIENTO FINANCE RESET INVERSIÓN
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    plans:
-      - type: PricingPlan
-        title: 'Inversión:'
-        price: 199 €
-        details: 'En lugar de 399 € '
-        description: |+
-          Incluye:
-
-          *   Pack 4 sesiones individuales online 1h
-
-
-
-          *   Materiales en Excel genéricos.
-
-
-
-          *   Ejercicios entre sesiones.
-
-        features: []
-        image:
-          type: ImageBlock
-          altText: Pricing plan 1
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
         colors: bg-neutral-fg-dark
         styles:
           self:
