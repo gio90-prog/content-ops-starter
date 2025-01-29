@@ -3,7 +3,7 @@
         {
             "type": "Button",
             "label": "Home",
-            "altText": "",
+            "altText": "/",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
