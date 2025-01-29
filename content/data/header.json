@@ -1,17 +1,6 @@
 {
     "primaryLinks": [
         {
-            "type": "Button",
-            "label": "Home",
-            "altText": "/",
-            "url": "/",
-            "showIcon": true,
-            "icon": "",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Contact",
             "altText": "Contact page",
             "url": "/Contact",
