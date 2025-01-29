@@ -230,10 +230,65 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+
+
+
+          | Sesión                                                           |
+          Descripción                                                                                                                      
+          | Objetivos
+          principales                                                                                                                                                   
+          |
+
+          | ---------------------------------------------------------------- |
+          ---------------------------------------------------------------------------------------------------------------------------------
+          |
+          ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          |
+
+          | 1. Diagnóstico de tu situación
+            financiera                  | Análisis profundo de tu situación
+            económica actual, gestión de ingresos/gastos y definición de objetivos
+            financieros. | - Obtén una fotografía clara de
+            tu punto de partida. 
+
+            \- Identifica fortalezas y áreas de mejora.                                                       |
+          | 2. Creencias sobre el dinero                                     |
+          Exploración de creencias
+            limitantes sobre el dinero y transformación hacia una mentalidad orientada a
+            la abundancia.  | - Reconoce y supera creencias que
+            te bloquean. 
+
+            \- Fomenta una visión positiva y estratégica del dinero.                                                |
+          | 3. La importancia del ahorro y la
+            planificación financiera | Comprende el valor del ahorro y
+            crea una planificación financiera sólida y personalizada.                                   | - Gestiona el ahorro diario. 
+
+            \- Crea un fondo de emergencia. 
+
+            \- Planifica a largo plazo.                                                         |
+          | 4. Invertir y crear hábitos
+            financieros saludables         | Introducción a las inversiones y
+            creación de hábitos financieros sostenibles.                                               | - Aprende los principios básicos
+            de inversión. 
+
+            \- Desarrolla estrategias para hábitos financieros saludables. 
+
+            \- Incorpora la generosidad. |
+          | Sesión extra (opcional)                                          |
+          Personalización adicional del
+            recorrido con temas específicos como ahorro, inversión o gestión de gastos.                   | - Recibe consejos avanzados y
+            personalizados. 
+
+            \- Perfecciona tu planificación financiera.                                                              |
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
