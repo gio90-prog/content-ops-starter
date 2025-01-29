@@ -226,18 +226,7 @@ sections:
         fontWeight: 700
   - type: GenericSection
     subtitle: ''
-    text: |+
-
-
-
-
-
-
-
-
-
-
-
+    text: ''
     actions: []
     media:
       type: ImageBlock
