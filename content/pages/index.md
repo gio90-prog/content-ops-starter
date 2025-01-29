@@ -328,12 +328,12 @@ sections:
       text: Contáctame para preguntas
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
-      ayudarte. 
+      ayudarte.
 
-      Contáctame directamente a través de los siguientes medios.
+      Contáctame directamente a través de los siguientes medios:
 
 
       **Correo electrónico:**
@@ -345,13 +345,17 @@ sections:
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 .
+      Si prefieres una conversación telefónica o por WhatsApp, llámame o
+      escríbeme al +34643 84 61 98.
 
 
       **Privacidad y confidencialidad:**
 
       Tu privacidad es muy importante para mí. Los datos que compartas serán
       tratados de manera confidencial y no serán cedidos a terceros.
+
+
+
     actions: []
     badge:
       type: Badge
