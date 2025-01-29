@@ -129,14 +129,6 @@ sections:
         style: secondary
         type: Button
         altText: Contact
-      - label: See Tutorials
-        url: /Contact
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-        altText: Contact
     media:
       altText: Fun feature preview
       type: ImageBlock
@@ -180,13 +172,6 @@ sections:
         style: secondary
         type: Button
         altText: Contact
-      - label: See Tutorials
-        url: /Contact
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       altText: Dope design preview
       type: ImageBlock
@@ -210,14 +195,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        altText: Contact
-      - type: Link
-        label: See Tutorials
-        url: /Contact
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
         altText: Contact
     media:
       type: ImageBlock
@@ -354,8 +331,9 @@ sections:
     text: >
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
-      ayudarte. Completa el formulario a continuación o contáctame directamente
-      a través de los siguientes medios.
+      ayudarte. 
+
+      Contáctame directamente a través de los siguientes medios.
 
 
       **Correo electrónico:**
@@ -367,7 +345,7 @@ sections:
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 . 
+      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 .
 
 
       **Privacidad y confidencialidad:**
@@ -375,47 +353,6 @@ sections:
       Tu privacidad es muy importante para mí. Los datos que compartas serán
       tratados de manera confidencial y no serán cedidos a terceros.
     actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: Contact ME
