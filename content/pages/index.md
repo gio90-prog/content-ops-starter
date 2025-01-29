@@ -172,13 +172,6 @@ sections:
         style: secondary
         type: Button
         altText: Contact
-      - label: See Tutorials
-        url: /Contact
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       altText: Dope design preview
       type: ImageBlock
