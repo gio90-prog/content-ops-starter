@@ -11,12 +11,12 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
+    text: >
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
       ayudarte.
 
-      Contáctame directamente a través de los siguientes medios.
+      Contáctame directamente a través de los siguientes medios:
 
 
       **Correo electrónico:**
@@ -35,9 +35,6 @@ sections:
 
       Tu privacidad es muy importante para mí. Los datos que compartas serán
       tratados de manera confidencial y no serán cedidos a terceros.
-
-
-
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
