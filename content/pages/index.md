@@ -249,7 +249,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: 'Inversión: 399€ 199€'
-        details: No credit card required
+        details: 'Incluye:'
         description: |+
           *   Pack 4 sesiones individuales online 1h
 
