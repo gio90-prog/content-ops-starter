@@ -213,7 +213,7 @@ sections:
         altText: Contact
       - type: Link
         label: See Tutorials
-        url: /
+        url: /Contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
