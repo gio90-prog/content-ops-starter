@@ -318,7 +318,7 @@ sections:
       - type: PricingPlan
         title: 'ALL INCLUSIVE:'
         price: 299€
-        details: 'En lugar de '
+        details: En lugar de 550
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
