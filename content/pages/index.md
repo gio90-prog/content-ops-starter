@@ -316,7 +316,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: PRECIO ALL INCLUSIVE
+        title: 'ALL INCLUSIVE:'
         price: Custom
         details: per month
         description: >-
