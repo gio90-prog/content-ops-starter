@@ -278,7 +278,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Sesión OPCIONAL extra
+        title: Sesión OPCIONAL EXTRA
         price: extra 150€
         details: '1 Sesión individual online 1,5h'
         description: |+
