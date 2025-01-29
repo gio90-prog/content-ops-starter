@@ -128,13 +128,15 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Contact
       - label: See Tutorials
-        url: /
+        url: /Contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
+        altText: Contact
     media:
       altText: Fun feature preview
       type: ImageBlock
@@ -179,7 +181,7 @@ sections:
         type: Button
         altText: Contact
       - label: See Tutorials
-        url: /
+        url: /Contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -208,13 +210,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Contact
       - type: Link
         label: See Tutorials
-        url: /
+        url: /Contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Contact
     media:
       type: ImageBlock
       altText: Fun feature preview
