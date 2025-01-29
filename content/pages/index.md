@@ -319,9 +319,7 @@ sections:
         title: 'ALL INCLUSIVE:'
         price: 299€
         details: En lugar de 549
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: "Pack 4 sesiones + sesión opcional :\_\n\n\n\n"
         features:
           - Feature one
           - Feature two
