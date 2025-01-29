@@ -218,6 +218,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Contact
     media:
       type: ImageBlock
       altText: Fun feature preview
