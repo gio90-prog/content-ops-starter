@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Contáctame para preguntas y asesoramiento financiero
       color: text-dark
       styles:
         self:
