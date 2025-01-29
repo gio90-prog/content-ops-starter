@@ -347,60 +347,30 @@ sections:
       text: Contáctame para preguntas y asesoramiento financiero
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
       ayudarte. Completa el formulario a continuación o contáctame directamente
       a través de los siguientes medios.
 
 
-      **Formulario de contacto:**
-
-      \[Formulario para nombre, correo electrónico, mensaje]
-
-
       **Correo electrónico:**
 
       Para cualquier pregunta o solicitud, escríbeme a
-      \[[tuemail@example.com]()]. ¡Te responderé lo antes posible!
+      [giovannifiorella.fe@gmail.com](giovannifiorella.fe@gmail.com) Te
+      responderé lo antes posible!
 
 
       **Teléfono:**
 
-      Si prefieres una conversación telefónica, llámame al \[tu número de
-      teléfono]. Estoy disponible de lunes a viernes, de 9:00 a 18:00.
-
-
-      **Dirección:**
-
-      Si deseas una reunión presencial o una consulta, mi oficina está ubicada
-      en:
-
-      \[Tu dirección física]
-
-
-      **Redes sociales:**
-
-      Puedes seguirme en mis redes sociales para contenido útil y
-      actualizaciones sobre finanzas personales:
-
-
-      *   \[Instagram]
-
-
-      *   \[LinkedIn]
-
-
-      *   \[Facebook]
+      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 . Te
+      responderé lo antes posible!
 
 
       **Privacidad y confidencialidad:**
 
       Tu privacidad es muy importante para mí. Los datos que compartas serán
       tratados de manera confidencial y no serán cedidos a terceros.
-
-
-
     actions: []
     media:
       type: FormBlock
