@@ -250,9 +250,23 @@ sections:
         title: ''
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          *   Pack 4 sesiones individuales online 1h
+
+          <!---->
+
+          *   Materiales en Excel genéricos.
+
+          <!---->
+
+          *   Ejercicios entre sesiones.
+
+
+
+
+
+
+
         features:
           - Feature one
           - Feature two
