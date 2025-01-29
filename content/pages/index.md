@@ -249,7 +249,7 @@ sections:
       - type: PricingPlan
         title: 'Inversión:'
         price: 199€
-        details: No credit card required
+        details: En lugar de 399 €
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
