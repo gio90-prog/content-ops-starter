@@ -244,7 +244,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Incluye:'
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: ''
