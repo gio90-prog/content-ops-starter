@@ -321,8 +321,7 @@ sections:
         details: En lugar de 549
         description: |
           **Pack 4 sesiones + sesión opcional** 
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           altText: Pricing plan 3
