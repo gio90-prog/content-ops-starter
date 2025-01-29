@@ -11,12 +11,33 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
+      tus inversiones o si deseas una consulta personalizada, estoy aquí para
+      ayudarte.
+
+      Contáctame directamente a través de los siguientes medios.
+
+
+      **Correo electrónico:**
+
+      Para cualquier pregunta o solicitud, escríbeme a
+      [giovannifiorella.fe@gmail.com](giovannifiorella.fe@gmail.com) Te
+      responderé lo antes posible!
+
+
+      **Teléfono:**
+
+      Si prefieres una conversación telefónica, llámame al +34 643 84 61 98 .
+
+
+      **Privacidad y confidencialidad:**
+
+      Tu privacidad es muy importante para mí. Los datos que compartas serán
+      tratados de manera confidencial y no serán cedidos a terceros.
+
+
+
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
