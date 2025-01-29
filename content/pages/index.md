@@ -250,9 +250,17 @@ sections:
         title: 'Inversión:'
         price: 199€
         details: En lugar de 399 €
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          Incluye:
+
+          *   Pack 4 sesiones individuales online 1h
+
+          *   Materiales en Excel genéricos.
+
+          *   Ejercicios entre sesiones.
+
+
+
         features:
           - Feature one
           - Feature two
