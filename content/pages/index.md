@@ -354,7 +354,9 @@ sections:
     text: >
       Si tienes preguntas sobre cómo mejorar tu gestión financiera, planificar
       tus inversiones o si deseas una consulta personalizada, estoy aquí para
-      ayudarte. Contáctame directamente a través de los siguientes medios.
+      ayudarte. 
+
+      Contáctame directamente a través de los siguientes medios.
 
 
       **Correo electrónico:**
