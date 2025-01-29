@@ -322,7 +322,6 @@ sections:
         description: |
           **Pack 4 sesiones + sesión opcional** 
         features:
-          - Feature three
           - Feature four
           - Feature five
         image:
