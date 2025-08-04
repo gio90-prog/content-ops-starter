@@ -228,7 +228,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Sesión
+        title: FINANCE RESET
         price: 449€
         details: En lugar de 600 €
         description: |+
