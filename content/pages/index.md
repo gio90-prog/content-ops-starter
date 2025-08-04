@@ -228,6 +228,37 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
+        title: Sesión PERSONALIZADA
+        price: 449€
+        details: En lugar de 600 €
+        description: |+
+          Incluye:
+
+          *   Pack 4 sesiones individuales online 1h
+
+
+
+          *   Materiales en Excel genéricos.
+
+
+
+          *   Ejercicios entre sesiones.
+
+        features: []
+        image:
+          type: ImageBlock
+          altText: Pricing plan 1
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: 'Sesión EXTRA:'
         price: 150€
         details: '1 Sesión individual online 1,5h'
@@ -255,37 +286,6 @@ sections:
         image:
           type: ImageBlock
           altText: Pricing plan 2
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Sesión PERSONALIZADA
-        price: 449€
-        details: En lugar de 600 €
-        description: |+
-          Incluye:
-
-          *   Pack 4 sesiones individuales online 1h
-
-
-
-          *   Materiales en Excel genéricos.
-
-
-
-          *   Ejercicios entre sesiones.
-
-        features: []
-        image:
-          type: ImageBlock
-          altText: Pricing plan 1
         actions: []
         colors: bg-neutral-fg-dark
         styles:
