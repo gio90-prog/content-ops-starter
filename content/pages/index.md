@@ -266,7 +266,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Seci
+        title: Sesión PERSONALIZADA
         price: 449€
         details: En lugar de 600 €
         description: |+
