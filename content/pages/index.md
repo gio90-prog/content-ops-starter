@@ -184,7 +184,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: SESIÓN OPCIONAL EXTRA
+      text: "SESIÓN\_ PERSONALIZADA"
       color: text-dark
     subtitle: "Duración: 1,5 horas -\_Para quienes deseen profundizar."
     text: "Esta sesión está pensada para quienes quieren personalizar aún más el recorrido, abordando temas específicos o recibiendo una consulta más detallada.\_\n\nUna sesión individual contigo para:\_\_\_\_\_\_ \n\n*   Recibir consejos personalizados para optimizar aún más tu gestión financiera.\_\n\n<!---->\n\n*   Profundizar en temas de tu interés, como estrategias de inversión, ahorro o gestión de gastos específicos.\_\n\n<!---->\n\n*   Tener la oportunidad de profundizar y perfeccionar tu plan financiero.\n\n"
@@ -228,9 +228,9 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: 'Inversión:'
-        price: 199€
-        details: En lugar de 399 €
+        title: FINANCE RESET
+        price: 449€
+        details: En lugar de 600 €
         description: |+
           Incluye:
 
@@ -259,7 +259,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: 'Sesión OPCIONAL EXTRA:'
+        title: "Sesión\_PERSONALIZADA:"
         price: 150€
         details: '1 Sesión individual online 1,5h'
         description: |+
@@ -298,8 +298,8 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: 'ALL INCLUSIVE:'
-        price: 299€
-        details: En lugar de 549
+        price: 549€
+        details: "En lugar de 750\_€"
         description: |
           **Pack 4 sesiones + sesión opcional** 
         features: []
