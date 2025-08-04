@@ -259,7 +259,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: 'Sesión EXTRA:'
+        title: "Sesión\_PERSONALIZADA:"
         price: 150€
         details: '1 Sesión individual online 1,5h'
         description: |+
