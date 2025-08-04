@@ -298,7 +298,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: 'ALL INCLUSIVE:'
-        price: 299€
+        price: 549€
         details: En lugar de 549
         description: |
           **Pack 4 sesiones + sesión opcional** 
