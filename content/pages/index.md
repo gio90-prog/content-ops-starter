@@ -228,7 +228,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Sesión PERSONALIZADA
+        title: Sesión
         price: 449€
         details: En lugar de 600 €
         description: |+
