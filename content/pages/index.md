@@ -229,7 +229,7 @@ sections:
     plans:
       - type: PricingPlan
         title: 'Inversión:'
-        price: 199€
+        price: 449€
         details: En lugar de 399 €
         description: |+
           Incluye:
