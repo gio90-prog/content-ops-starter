@@ -184,7 +184,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: SESIÓN OPCIONAL EXTRA
+      text: "SESIÓN\_ EXTRA"
       color: text-dark
     subtitle: "Duración: 1,5 horas -\_Para quienes deseen profundizar."
     text: "Esta sesión está pensada para quienes quieren personalizar aún más el recorrido, abordando temas específicos o recibiendo una consulta más detallada.\_\n\nUna sesión individual contigo para:\_\_\_\_\_\_ \n\n*   Recibir consejos personalizados para optimizar aún más tu gestión financiera.\_\n\n<!---->\n\n*   Profundizar en temas de tu interés, como estrategias de inversión, ahorro o gestión de gastos específicos.\_\n\n<!---->\n\n*   Tener la oportunidad de profundizar y perfeccionar tu plan financiero.\n\n"
